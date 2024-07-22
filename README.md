@@ -18,4 +18,8 @@
 >> VLESS节点信息：[NODE](https://vless.electrondz75.sbs/21b8ad5c-1b2f-48c7-b518-d69c5c03173a)  
 >> 订阅链接：[LINK](https://vless2.electrondz75.sbs/c20e4a91-df69-49c9-a620-88ca1e00ca07)  
 >> IP优选器：[Download](batch.zip)
+
+> 订阅：<https://data.electrondz75.sbs/subscript>  
+> 备用订阅：<https://data.zhicheng233.top/clash/node>
+
     
