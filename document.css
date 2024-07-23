@@ -1,0 +1,108 @@
+/* 基本重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', serif; /* 适合文档的字体 */
+    font-size: 16px; /* 基本字体大小 */
+    line-height: 1.5; /* 行高 */
+    color: #333; /* 文字颜色 */
+    background-color: #fff; /* 背景颜色 */
+    padding: 20px; /* 页面内边距 */
+}
+
+/* 标题样式 */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal; /* 标题不使用粗体 */
+    color: #000; /* 标题颜色 */
+    margin-bottom: 10px; /* 标题与内容的间距 */
+}
+
+h1 {
+    font-size: 2em; /* 最大标题大小 */
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.17em;
+}
+
+/* 段落样式 */
+p {
+    margin-bottom: 15px; /* 段落之间的间距 */
+    text-align: justify; /* 文本两端对齐 */
+}
+
+/* 列表样式 */
+ul, ol {
+    margin: 0 0 15px 20px; /* 列表外边距和内边距 */
+    padding: 0; /* 列表内边距 */
+}
+
+li {
+    margin-bottom: 5px; /* 列表项间距 */
+}
+
+/* 链接样式 */
+a {
+    color: #0066cc; /* 链接颜色 */
+    text-decoration: none; /* 去除下划线 */
+}
+
+a:hover {
+    text-decoration: underline; /* 鼠标悬停时添加下划线 */
+}
+
+/* 表格样式 */
+table {
+    width: 100%;
+    border-collapse: collapse; /* 边框合并 */
+    margin-bottom: 15px;
+}
+
+th, td {
+    border: 1px solid #ddd; /* 单元格边框 */
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2; /* 表头背景色 */
+}
+
+/* 图片样式 */
+img {
+    max-width: 100%; /* 图片最大宽度 */
+    height: auto; /* 保持图片比例 */
+    margin-bottom: 15px; /* 图片与文字间距 */
+}
+
+/* 页脚样式 */
+footer {
+    font-size: 0.8em;
+    color: #666;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* 打印样式 */
+@media print {
+    body {
+        background-color: transparent; /* 打印时去除背景色 */
+    }
+
+    img {
+        max-width: 100% !important; /* 确保图片在打印时不会超出页面宽度 */
+    }
+
+    /* 去除打印时不需要的元素 */
+    header, nav, aside, footer {
+        display: none;
+    }
+}
