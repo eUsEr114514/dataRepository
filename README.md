@@ -1,6 +1,7 @@
 # 这里是用来存放数据的
 此项目的地址：<https://github.com/euser114514/dataRepository>  
 可访问URL：<https://data.electrondz75.sbs>  
+教程：<https://data.electrondz75.sbs/teach/index.html>
 
 # 简单寒暄  
 这个项目的创建时间为2024.7.22  
