@@ -1,24 +1,14 @@
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@127.0.0.1:2024?encryption=none&security=none&type=tcp&headerType=none#下面分别是sbs和top的节点
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@127.0.0.1:2024?encryption=none&security=none&type=tcp&headerType=none#sbs的节点
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@vless.electrondz75.sbs:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.16.51.77:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.79.20:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.168.68:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@162.159.49.99:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.16.202.209:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.17.52.148:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@172.64.165.143:443?encryption=none&security=tls&sni=vless.electrondz75.sbs&fp=randomized&type=ws&host=vless.electrondz75.sbs&path=%2F%3Fed%3D2048#vless.electrondz75.sbs
 vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@127.0.0.1:2024?encryption=none&security=none&type=tcp&headerType=none#top的节点
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@vless.electrondz75.top:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#vless.electrondz75.top
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@vless.electrondz75.top:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#California San Francisco
 vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.22.57.233:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.22.57.233
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.207.140:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.18.207.140
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@172.67.210.41:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#172.67.210.41
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.21.21.235:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.21.21.235
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.24.250.156:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.24.250.156
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.17.223.35:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.17.223.35
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.24.225.105:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.24.225.105
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.110.12:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.18.110.12
-vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.201.207:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#104.18.201.207
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.207.140:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#California San Francisco
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@172.67.210.41:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#California San Francisco
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.21.21.235:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#Washington Seattle
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.24.250.156:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#Washington King County
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.17.223.35:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#Hong Kong
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.24.225.105:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#Washington King County
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.110.12:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#California San Francisco
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@104.18.201.207:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#California San Francisco
 
 
 
