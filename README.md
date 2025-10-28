@@ -2,6 +2,8 @@
 此项目的地址：<https://github.com/euser114514/dataRepository>  
 可访问URL：<https://data.electrondz75.top>  
 教程：<https://data.electrondz75.top/teach/index.html>
+database:<https://data.electrondz75.top/data.html>
+
 
 # 简单寒暄  
 这个项目的创建时间为2024.7.22  
