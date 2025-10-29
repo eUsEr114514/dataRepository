@@ -1,7 +1,7 @@
 # 这里是用来存放数据的
 此项目的地址：<https://github.com/euser114514/dataRepository>  
 可访问URL：<https://data.electrondz75.top>  
-教程：<https://data.electrondz75.top/teach/index.html>
+教程：<https://data.electrondz75.top/teach/index.html>  
 Database： <https://data.electrondz75.top/data.html>
 
 
