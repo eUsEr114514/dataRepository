@@ -1,0 +1,25 @@
+
+################################################################
+v2ray
+---------------------------------------------------------------
+vless://21b8ad5c-1b2f-48c7-b518-d69c5c03173a@vless.electrondz75.top:443?encryption=none&security=tls&sni=vless.electrondz75.top&fp=randomized&type=ws&host=vless.electrondz75.top&path=%2F%3Fed%3D2048#vless.electrondz75.top
+---------------------------------------------------------------
+################################################################
+clash-meta
+---------------------------------------------------------------
+- type: vless
+  name: vless.electrondz75.top
+  server: vless.electrondz75.top
+  port: 443
+  uuid: 21b8ad5c-1b2f-48c7-b518-d69c5c03173a
+  network: ws
+  tls: true
+  udp: false
+  sni: vless.electrondz75.top
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2048"
+    headers:
+      host: vless.electrondz75.top
+---------------------------------------------------------------
+################################################################
