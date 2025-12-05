@@ -21,8 +21,7 @@ Database： <https://data.electrondz75.top/data.html>
 > 备份：<https://electrondz75.top/data>  
 >> 自建节点视频教程：[YouTube](https://www.youtube.com/watch?v=sNOlsiwgCSA)  
 >> 自建节点博客教程：[Blog](https://v2rayssr.com/worker-vless.html)  
->> VLESS节点信息：[NODE](vlessNodeInfo.txt)  
->> 订阅链接：[LINK](https://vless2.electrondz75.top/c20e4a91-df69-49c9-a620-88ca1e00ca07)  
+>> VLESS节点信息：[NODE](vlessNodeInfo.txt)
 >> IP优选器：[Download](batch.zip)
 
 > 订阅：<https://data.electrondz75.top/subscript>  
