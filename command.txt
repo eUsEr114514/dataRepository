@@ -1,0 +1,5 @@
+Update Ubuntu:
+apt update -y && apt upgrade -y && apt install sudo curl -y
+
+Install 3x-ui Panel:
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)

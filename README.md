@@ -18,13 +18,19 @@ Database： <https://data.electrondz75.top/data.html>
 # 链接  
 购买域名的链接：[NameSilo](https://www.namesilo.com)  
 云服务器：[CloudFlare](https://dash.cloudflare.com/)  
-> 备份：<https://electrondz75.top/data>  
+> 备份：<https://electrondz75.top/data> 
+>> BASED ON CLoudFlare  
 >> 自建节点视频教程：[YouTube](https://www.youtube.com/watch?v=sNOlsiwgCSA)  
 >> 自建节点博客教程：[Blog](https://v2rayssr.com/worker-vless.html)  
 >> VLESS节点信息：[NODE](vlessNodeInfo.txt)
->> IP优选器：[Download](batch.zip)
+>> IP优选器：[Download](batch.zip)  
+>> 订阅：<https://data.electrondz75.top/subscript>  
+>> 备用订阅：<https://data.zhicheng233.top/clash/node>  
 
-> 订阅：<https://data.electrondz75.top/subscript>  
-> 备用订阅：<https://data.zhicheng233.top/clash/node>
+> Buy VPS Build Node:  
+>> Video Teach: [YouTube](https://www.youtube.com/watch?v=MuWTmEiNe1g)  
+>> VPS Buy Website(RackNerd): [RackNerd](https://www.racknerd.com/)  
+>> Command: [Download](command.txt)  
+>> Subscript: NO! PLEASE LEARNING!
 
     
